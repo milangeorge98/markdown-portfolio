@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hello World, My name is **Milan George** and I am skilled in _Java, Python, React, MongoDB, Full Stack Development._
